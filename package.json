@@ -1,0 +1,23 @@
+{
+  "name": "au-legislator-contacts-csv",
+  "version": "0.0.1",
+  "description": "Database of Australian federal representatives and associated contact details",
+  "main": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stopthespies/legislator-contacts-csv.git"
+  },
+  "keywords": [
+    "Australia",
+    "Government",
+    "Database"
+  ],
+  "author": "stopthespies.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stopthespies/legislator-contacts-csv/issues"
+  },
+  "homepage": "https://github.com/stopthespies/legislator-contacts-csv"
+}
