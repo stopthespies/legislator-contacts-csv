@@ -1,8 +1,8 @@
 {
   "name": "au-legislator-contacts-csv",
   "version": "0.0.1",
-  "description": "Database of Australian federal representatives and associated contact details",
-  "main": "",
+  "description": "Database of Australian federal representatives and associated contact details, retrievable as a promise.",
+  "main": "index.js",
   "scripts": {
   },
   "repository": {
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/stopthespies/legislator-contacts-csv/issues"
   },
-  "homepage": "https://github.com/stopthespies/legislator-contacts-csv"
+  "homepage": "https://github.com/stopthespies/legislator-contacts-csv",
+  "dependencies": {
+    "csv": "0.4.0",
+    "promise": "5.0.0"
+  }
 }
